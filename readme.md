@@ -72,4 +72,10 @@ Collaborator agent for the restaurant agent
 <img width="1864" height="833" alt="Screenshot 2025-10-13 092523" src="https://github.com/user-attachments/assets/cdac1686-089f-4974-b991-04f01701cc5b" />
 
 
+### Accommodation Agent
+<img width="1857" height="730" alt="Screenshot 2025-10-13 093343" src="https://github.com/user-attachments/assets/967259a0-d10e-415c-b5e3-038d7760f602" />
+<img width="1860" height="805" alt="Screenshot 2025-10-13 093525" src="https://github.com/user-attachments/assets/4bb999d9-f269-4eb1-99ab-65d35ce42489" />
+
+
+
 
