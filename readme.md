@@ -43,4 +43,11 @@ Accommodation action group for Airbnbs
 
 ## Supervisor Agent
 
+<img width="1413" height="784" alt="Screenshot 2025-10-13 082222" src="https://github.com/user-attachments/assets/b1b09618-0a24-45d3-aa88-26d902d7a35b" />
+
+<img width="1477" height="674" alt="Screenshot 2025-10-13 082255" src="https://github.com/user-attachments/assets/407e487f-18ec-4796-9c29-df49c511d6d7" />
+
+<img width="1498" height="615" alt="Screenshot 2025-10-13 082317" src="https://github.com/user-attachments/assets/f42b23f1-9925-4704-add8-dffc0a8d7671" />
+
+
 
