@@ -53,8 +53,12 @@ Collaborator agent for the accommodation agent
 
 <img width="749" height="309" alt="Screenshot 2025-10-13 082317" src="https://github.com/user-attachments/assets/f42b23f1-9925-4704-add8-dffc0a8d7671" />
 
+
 Collaborator agent for the restaurant agent
 
 
 ### *Lambda code files for the agents are attached separately\*
+
+
+## Outputs
 
