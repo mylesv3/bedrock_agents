@@ -25,4 +25,16 @@ This agent in AWS Bedrock recommends a restaurant based on the user's preference
 
 <img width="710" height="389" alt="Screenshot 2025-10-13 073342" src="https://github.com/user-attachments/assets/af1da8f5-e93f-41c5-996d-bb0ba115db8b" />
 
-Agent group takes in 2 parameters (fine_dine and city)
+Agent group takes in two parameters (fine_dine and city)
+
+## Accommodation Agent
+
+<img width="693" height="504" alt="Screenshot 2025-10-13 074236" src="https://github.com/user-attachments/assets/3b7aeb3b-dd84-4cdc-9689-f7595292284f" />
+
+This agent in AWS Bedrock recommends an accommodation option based on the user's preferences for hotels/airbnbs
+
+<img width="713" height="403" alt="Screenshot 2025-10-13 074310" src="https://github.com/user-attachments/assets/85e0ed56-3d68-4b6f-ad3d-7ca85afb616d" />
+
+<img width="708" height="460" alt="Screenshot 2025-10-13 074329" src="https://github.com/user-attachments/assets/1a7e1ebc-30d1-4c00-8b6d-a008762f4e3c" />
+
+Accommodation Action Groups
