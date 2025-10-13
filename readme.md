@@ -67,7 +67,9 @@ Collaborator agent for the restaurant agent
 ## Outputs
 
 
+### Restaurant Agent
 <img width="1926" height="933" alt="Screenshot 2025-10-13 092250" src="https://github.com/user-attachments/assets/c16cfd42-c791-4d8d-8ad5-3c3fcf8cb1ab" />
 <img width="1864" height="833" alt="Screenshot 2025-10-13 092523" src="https://github.com/user-attachments/assets/cdac1686-089f-4974-b991-04f01701cc5b" />
+
 
 
