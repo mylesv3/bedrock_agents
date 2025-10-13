@@ -57,6 +57,10 @@ Collaborator agent for the accommodation agent
 Collaborator agent for the restaurant agent
 
 
+## API Integration w/ Supervisor
+<img width="1964" height="864" alt="Screenshot 2025-10-13 094250" src="https://github.com/user-attachments/assets/72971584-f7bd-400b-b3bf-bf126322623d" />
+
+
 
 
 ### *Lambda code files for the agents are attached separately\*
