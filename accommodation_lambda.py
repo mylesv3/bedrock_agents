@@ -5,7 +5,7 @@ import pandas as pd
 import json
 from io import StringIO
 
-S3_BUCKET = 'ADD-YOUR-BUCKET-NAME'
+S3_BUCKET = 'testmath-agents'
 HOTEL_CSV_KEY = 'hotel.csv'
 AIRBNB_CSV_KEY ='airbnb.csv'
 
@@ -73,10 +73,10 @@ def lambda_handler(event, context):
 
         }
 
-        dummy_function_response = {'response': action_response, 'messageVersion': event['messageVersion']}
-        print("Response: {}".format(dummy_function_response))
+        accommodation_function_response = {'response': action_response, 'messageVersion': event['messageVersion']}
+        print("Response: {}".format(accommodation_function_response))
 
-        return dummy_function_response
+        return accommodation_function_response
 
     except Exception as e:
         print("Error: {}".format(e))
