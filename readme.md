@@ -49,6 +49,8 @@ This agent in AWS Bedrock decides whether to invoke the restaurant or accommodat
 
 <img width="739" height="337" alt="Screenshot 2025-10-13 082255" src="https://github.com/user-attachments/assets/407e487f-18ec-4796-9c29-df49c511d6d7" />
 
+
+### Lambda code files for the agents are attached separately 
 Collaborator agent for the accommodation agent
 
 <img width="749" height="309" alt="Screenshot 2025-10-13 082317" src="https://github.com/user-attachments/assets/f42b23f1-9925-4704-add8-dffc0a8d7671" />
