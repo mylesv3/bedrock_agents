@@ -35,6 +35,8 @@ This agent in AWS Bedrock recommends an accommodation option based on the user's
 
 <img width="713" height="403" alt="Screenshot 2025-10-13 074310" src="https://github.com/user-attachments/assets/85e0ed56-3d68-4b6f-ad3d-7ca85afb616d" />
 
+Accommodation action group for hotels
+
 <img width="708" height="460" alt="Screenshot 2025-10-13 074329" src="https://github.com/user-attachments/assets/1a7e1ebc-30d1-4c00-8b6d-a008762f4e3c" />
 
-Accommodation Action Groups
+Accommodation action group for Airbnbs
