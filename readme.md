@@ -21,3 +21,8 @@ This lab is a multi-agent AI workflow built in AWS Bedrock, and it is deployed u
 <img width="706" height="491" alt="Screenshot 2025-10-13 073302" src="https://github.com/user-attachments/assets/3d9c6de6-b651-4f7a-bc76-a68dfb912f24" />
 
 This agent in AWS Bedrock recommends a restaurant based on the user's preferences for fine dining and location
+
+
+<img width="710" height="389" alt="Screenshot 2025-10-13 073342" src="https://github.com/user-attachments/assets/af1da8f5-e93f-41c5-996d-bb0ba115db8b" />
+
+Agent group takes in 2 parameters (fine_dine and city)
